@@ -1,0 +1,148 @@
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\bin\Debug\LHMS Application.exe.config
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\bin\Debug\LHMS Application.exe
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\bin\Debug\LHMS Application.pdb
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS Application.csproj.AssemblyReference.cache
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS Application.csproj.SuggestedBindingRedirects.cache
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Properties.Resources.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS Application.csproj.GenerateResource.cache
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS Application.csproj.CoreCompileInputs.cache
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS Application.exe
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS Application.pdb
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmCategory.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmSales.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmTasks.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmSetting.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.UI.frmLogin.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.UI.FrmOpening.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.UI.frmDashboardAD.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmUsers.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmProduct.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Froms.FrmDealersAndCustomer.resources
+D:\Docment\Esoft\MSS\MSS Project\LHMS Application\LHMS Application\obj\Debug\LHMS_Application.Froms.SampleTestUI.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\LHMS Application.exe.config
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\LHMS Application.exe
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\LHMS Application.pdb
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.csproj.AssemblyReference.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.csproj.SuggestedBindingRedirects.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Properties.Resources.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.UI.FrmLogin.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.UI.FrmOpening.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.csproj.GenerateResource.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.csproj.CoreCompileInputs.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.exe
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.pdb
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\Dapper.Contrib.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\Dapper.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\VBSQLHelper.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\Dapper.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\Dapper.Contrib.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.csproj.CopyComplete
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS Application.csproj.ResolveComReference.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\ExcelNumberFormat.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\MoreLinq.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\System.IO.Packaging.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\System.ValueTuple.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\ExcelNumberFormat.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\MoreLinq.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\System.Linq.Dynamic.Core.pdb
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\bin\Debug\System.ValueTuple.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmADCategory.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmADUsers.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmuserDetails.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmCategory.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmCategorySub.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmAdminDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmProduct.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmTask.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.Frmtaskupdate.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmFHDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADCategorySub.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADDealersAndCustomer.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADInventory.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADLogTrack.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADCategoryCode.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADproduct.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADProductCode.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADPurchaseandsales.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADtask.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADtaskprograss.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADTaskUpdate.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADproductType.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.SampleTestUI.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADUserReports.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmDealcusReport.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmPurchasesandSales.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmPurchaseandSales.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmDealersAndCustomer.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmICTDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmFinanceDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmHRDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmSupervisorDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Froms.FrmADInventoryD.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmDHdashbaord.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\LHMS Application.exe.config
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\LHMS Application.exe
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\LHMS Application.pdb
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\Dapper.Contrib.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\Dapper.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\ExcelNumberFormat.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\MoreLinq.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\System.IO.Packaging.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\System.ValueTuple.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\VBSQLHelper.dll
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\Dapper.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\Dapper.Contrib.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\ExcelNumberFormat.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\MoreLinq.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\System.Linq.Dynamic.Core.pdb
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\bin\Debug\System.ValueTuple.xml
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.csproj.AssemblyReference.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.csproj.SuggestedBindingRedirects.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.csproj.ResolveComReference.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmAdminDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmCategory.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmCategorySub.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmProduct.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmTask.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.EMForms.FrmuserDetails.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmADCategory.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADCategorySub.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADInventory.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADLogTrack.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADCategoryCode.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADproduct.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADProductCode.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADtask.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADtaskprograss.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Forms.FrmADUsers.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADproductType.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.SampleTestUI.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Properties.Resources.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADUserReports.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.UI.FrmLogin.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.UI.FrmOpening.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.csproj.GenerateResource.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.csproj.CoreCompileInputs.cache
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.csproj.CopyComplete
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.exe
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS Application.pdb
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Froms.FrmKancard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADCustomer.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Froms.FrmADDelaer.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADPurchase.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Froms.FrmADSales.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Froms.FrmADrate.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmADpurchases.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmSupervisorDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmFHDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Dashboard.FrmDpDashboard.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmInvenReports.resources
+D:\Computing Coding PJ\vs\Projects\LHMS-Application - new improvements\LHMS Application\obj\Debug\LHMS_Application.Reports.FrmDelaerreport.resources
